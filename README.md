@@ -35,7 +35,7 @@ The model achieved moderate performance and helped demonstrate the complete mach
 - Improving model accuracy
 
 ## Files
-- [RandomForest.ipynb](RandomForest.ipynb) — Jupyter Notebook containing the full analysis and model development process.
+- [RandomForest.ipynb](RandomForest.ipynb) — Collab Notebook containing the full analysis and model development process.
 
 ## Note
 This is a beginner machine learning portfolio project created for learning and skill development.
